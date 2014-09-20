@@ -1,0 +1,15 @@
+h1 {
+    font-size: 38px;
+    font-weight: normal;
+}
+#nombre {
+    font-weight: bold;
+}
+header,
+#contenido {
+    width: 80%;
+    margin: 50px;
+}
+.gris {
+    color: #985236;
+}
